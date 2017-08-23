@@ -1,6 +1,6 @@
 info:
-  description: Spring Cloud Samples
-  author: julio muñoz
+  description: Spring Cloud Architecture
+  author: Abilio Caceres
   
 eureka:
   hostname: localhost
